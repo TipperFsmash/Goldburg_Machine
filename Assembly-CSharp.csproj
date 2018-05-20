@@ -59,7 +59,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BallNoises.cs" />
+    <Compile Include="Assets\cameraFollow.cs" />
+    <Compile Include="Assets\destroydiir.cs" />
     <Compile Include="Assets\MENU.cs" />
+    <Compile Include="Assets\ReturnToMenu.cs" />
     <Compile Include="Assets\Scenes\CameraMove.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
